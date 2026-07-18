@@ -222,12 +222,6 @@ O aprendizado é registrado em código e projetos públicos, com evolução grad
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="72%" src="https://streak-stats.demolab.com/?user=lucasmeggiato&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-  </a>
-</div>
-
 ---
 
 ## Troféus do GitHub
